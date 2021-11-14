@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SystemProperties>
+  <SystemName>CellMaster</SystemName>
+  <SerialNo>VIRTUAL_USE</SerialNo>
+  <UsedMedia>
+    <Media path="C:\Users\Acer\AppData\Local\ABB\RobotWare\RobotWare_6.12.3010" name="RobotWare" version="6.12.3010">
+    </Media>
+  </UsedMedia>
+  <ControlModule>
+    <Option descr="RobotWare Base">
+    </Option>
+    <Option descr="English">
+    </Option>
+    <Option descr="888-2 PROFINET Controller/Device">
+    </Option>
+  </ControlModule>
+  <DriveModule>
+    <Name>Robot1</Name>
+    <Option descr="Drive System IRB 460/640/660/760/4600/66xx/6700">
+    </Option>
+    <Option descr="ADU-790A in position X3">
+    </Option>
+    <Option descr="ADU-790A in position Y3">
+    </Option>
+    <Option descr="ADU-790A in position Z3">
+    </Option>
+    <Option descr="Axis Calibration">
+    </Option>
+    <Option descr="IRB 6700-150/3.20">
+    </Option>
+  </DriveModule>
+</SystemProperties>
